@@ -1,0 +1,27 @@
+{
+    
+    "seccion": [
+        {
+            "id": 1,
+            "sigla": "001D"
+        },
+        {
+            "id": 2,
+            "sigla": "002D"
+        }
+    ],
+    "asigsecci": [
+        {
+            "id": 1,
+            "id_ramo": 2,
+            "id_seccion": 1,
+            "id_profesor": 1
+        },
+        {
+            "id": 2,
+            "id_ramo": 1,
+            "id_seccion": 1,
+            "id_profesor": 1
+        }
+    ]
+}
